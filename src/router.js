@@ -18,6 +18,11 @@ export default new Router({
       component: Home
     },
     {
+      path: '/asset/:contractaddress/:assetid',
+      name: 'show',
+      component: Show
+    },
+    {
       path: '/login',
       name: 'login',
       component: Login,
