@@ -31,13 +31,12 @@ export default {
 
 	 async selectAsset(assetName)
 	 {
-		  
+
 	 },
 
 
 
-
-  }
+ 
 
 }
 

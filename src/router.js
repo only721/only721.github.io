@@ -1,8 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './views/Home.vue'
-import DropdownExample from './views/DropdownExample.vue'
-import ModalExample from './views/ModalExample.vue'
+import Show from './views/Show.vue' 
 import Login from './views/Login.vue'
 import Docs from './views/Docs.vue'
 
